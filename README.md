@@ -1,4 +1,12 @@
-### Hi there 👋
+
+Olá me chamo Gabryel Velli!👋👋
+
+📕- Estudando Analise e desenvolvimento de sistemas <br>
+💼- Em busca do meu primeiro estagio/trabalho na área <br>
+🧠 - Conhecimento em HTML/CSS/JAVASCRIPT, C#, java e SQL <br>
+📶- Meu Linkedin:https://www.linkedin.com/in/gabryel-velli-vilas-boas-36ab3b26a/ <br>
+📱- Telefone: 11991145586 <br>
+📩- Email: gabryel.velli@gmail.com
 
 <!--
 **GabryelVelli/GabryelVelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
