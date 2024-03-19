@@ -7,7 +7,9 @@ Olá me chamo Gabryel Velli!👋👋
 📶- Meu Linkedin:https://www.linkedin.com/in/gabryel-velli-vilas-boas-36ab3b26a/ <br>
 📱- Telefone: 11991145586 <br>
 📩- Email: gabryel.velli@gmail.com
-
+<html>
+  <a href="https://www.linkedin.com/in/gabryel-velli-vilas-boas-36ab3b26a/"><img src=https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png width=70px></a>
+</html>
 <!--
 **GabryelVelli/GabryelVelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
