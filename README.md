@@ -2,8 +2,8 @@
 Olá me chamo Gabryel Velli!👋👋
 
 📕- Estudando Analise e desenvolvimento de sistemas <br>
-💼- Estagiário em Desenvolvimento Gerencial na TOTVS JuriTIs <br>
-🧠 - Conhecimento em HTML/CSS/JAVASCRIPT, C#, java e SQL <br>
+💼- Analista Junior 3 em Desenvolvimento Gerencial na TOTVS JuriTIs <br>
+🧠 - Conhecimento em HTML/CSS/JAVASCRIPT, C#, Entity Framework, Testes Automatizados em PlayWrigth e SQL <br>
 📱- Telefone: 11991145586 <br>
 📩- Email: gabryel.velli@gmail.com
 <html>
