@@ -1,4 +1,5 @@
 Olá me chamo Gabryel Velli!👋👋
+
 📕- Estudando Analise e desenvolvimento de sistemas <br>
 💼- Analista Junior 3 em Desenvolvimento Gerencial na TOTVS JuriTIs <br>
 🧠 - Conhecimento em HTML/CSS/JAVASCRIPT, C#, Entity Framework, Testes Automatizados em PlayWrigth e SQL <br>
